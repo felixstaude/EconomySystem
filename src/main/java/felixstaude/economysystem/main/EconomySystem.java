@@ -17,7 +17,7 @@ public final class EconomySystem extends JavaPlugin {
     public void onEnable() {
         SQLEcoSettings.connect();
         SQLPlaySettings.connect();
-
+//
         Bukkit.getPluginManager().registerEvents(new JoinListener(), this);
     }
 
