@@ -1,0 +1,7 @@
+name: EconomySystem
+version: '${project.version}'
+main: economysystem.economysystem.EconomySystem
+api-version: 1.18
+prefix: [ EconomySystem ]
+authors: [ FelixStaude ]
+website: strick-advisor.de
